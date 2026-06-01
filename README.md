@@ -78,7 +78,7 @@ Applications built using:
 
 ## Currently Learning
 - Advanced DSA in Java
-- React Ecosystem
+- React JS
 - Backend Development
 - Full Stack Project Development
 
